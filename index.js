@@ -1,4 +1,4 @@
-const {registerFont, createCanvas} = require('canvas');
+const {registerFont, createCanvas} = require('canvas-prebuilt');
 
 /**
  * Convert text to PNG image.
